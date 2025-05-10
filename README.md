@@ -1,12 +1,30 @@
-# React + Vite
+# 🌪️ WeatherWhirl
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**WeatherWhirl** is a sleek and responsive weather web app that provides real-time weather updates based on your location or a searched city. Powered by modern web technologies and live weather APIs.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check it out here: [https://weatherwhirl.netlify.app/]
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🌦️ Real-time weather data (temperature, humidity, wind, etc.)
+- 🧭 Location-based weather detection
+- 🔍 City search functionality
+- 📱 Responsive design for all devices
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, React
+- **API:** OpenWeatherMap API
+- **Deployment:** Netlify 
+
+## 📥 Installation
+
+To run the project locally:
+
+```bash
+git clone https://github.com/faishalsheikh786/weatherwhirl.git
+cd weatherwhirl
+npm install     # or skip if no dependencies
+npm start       # or open index.html directly if it's pure HTML/CSS/JS
