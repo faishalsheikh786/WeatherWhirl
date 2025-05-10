@@ -26,5 +26,5 @@ To run the project locally:
 ```bash
 git clone https://github.com/faishalsheikh786/weatherwhirl.git
 cd weatherwhirl
-npm install     # or skip if no dependencies
-npm start       # or open index.html directly if it's pure HTML/CSS/JS
+npm install    
+npm start      
